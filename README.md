@@ -1,4 +1,4 @@
-### [ Download Latest Version.](https://github.com/KovaaK/InterAccel/releases/latest)
+### [ Download Latest Version.](https://github.com/Inter-Accel/InterAccel/releases/tag/2.1)
 [![Screenshot 1](https://i.imgur.com/4vy7XYf.png)](https://github.com/KovaaK/InterAccel/releases/latest)
 # Interception Acceleration
 
